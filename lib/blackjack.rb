@@ -68,5 +68,3 @@ def runner
   end
   end_game(deal_card)
 end
-    
-#binding.pry
